@@ -1,0 +1,25 @@
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Welcome! on My New Hugo Site</title>
+	<link href="/atom.xml" rel="self"/>
+	<link href="/"/>
+	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
+	<updated>2019-03-01T10:45:15+00:00</updated>
+	<id>/</id>
+	<author>
+		<name>Your Name or your organization&#39;s name</name>
+		<email>thisemaildoesnotexist@www.example.com</email>
+	</author>
+  <entry>
+	<title>My First Post</title>
+    <link href="/posts/my-first-post/"/>
+	<id>/posts/my-first-post/</id>
+    <published>2019-02-21T15:15:35+00:00</published>
+    <updated>2019-02-21T15:15:35+00:00</updated>
+	<content type="html"><![CDATA[
+<p>Hello, world!</p>
+]]></content>
+	
+  </entry>
+	
+</feed>
